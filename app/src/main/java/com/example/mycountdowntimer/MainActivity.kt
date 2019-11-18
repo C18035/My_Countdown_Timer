@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
                 false -> {
                     timer.start()
                     playStop.setImageResource(
-                        R.drawable.ic_play_arrow_black_24dp
+                        R.drawable.ic_stop_black_24dp
                     )
                     true
                 }
